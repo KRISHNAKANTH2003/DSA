@@ -1,0 +1,39 @@
+DAILY DSA
+
+A journey of logic, patterns, and problem-solving.
+
+ABOUT
+This repository contains my daily Data Structures and Algorithms (DSA) practice.
+I solve problems, learn new approaches, and improve my problem-solving skills one day at a time.
+
+GOALS
+
+Practice DSA consistently.
+Understand the logic behind each solution.
+Learn common problem-solving patterns.
+Improve code quality and efficiency.
+Track my progress over time.
+
+TOPICS
+
+Arrays and Strings
+Two Pointers
+Sliding Window
+Hashing
+Binary Search
+Sorting
+Linked Lists
+Stacks and Queues
+Recursion and Backtracking
+Trees and Graphs
+Greedy Algorithms
+Dynamic Programming
+
+LANGUAGE
+Python
+
+PHILOSOPHY
+Consistency over perfection.
+One problem at a time. One step closer every day.
+
+Learn. Solve. Understand. Repeat.
