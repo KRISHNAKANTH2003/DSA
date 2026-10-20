@@ -1,0 +1,6 @@
+@"
+dsa_env/
+__pycache__/
+.ipynb_checkpoints/
+.env
+"@ | Out-File -Encoding utf8 .gitignore
