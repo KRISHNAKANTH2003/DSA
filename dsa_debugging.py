@@ -1,15 +1,18 @@
-class animal:
-    def __init__(self,name:str,age:int):
-        self._name=str(name)
-        self._age=age
-    def change_name(self,name):
-        self._name=name
-    def change_age(self,age):
-        self._age=age
-    def get_name(self):
-        return self._name
-    
-animal_1=animal("dog",18)
-animal_2=animal("cat",4)
-animal_3=animal(8,12)
-print(animal_3.get_name())
+strings=[100, 4, 200, 1, 3, 2]
+strings.sort()
+sequence=[]
+print(strings)
+hold={}
+total=0
+for i in range(len(strings)-1):
+    total+=1
+    if strings[i]-strings[i+1]==-1:
+        if total not in hold.keys():
+            hold[total]=[strings[i]]
+        else:
+            hold[total].append(strings[i])
+    else:
+        total+=1
+print(hold)
+
+
